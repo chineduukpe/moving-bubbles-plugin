@@ -10,7 +10,7 @@ The plugin also come with a createMultipleBalls function that help you create mu
 PLUGIN CONFIGURATION PROPERTIES
 
 Ball CLASS
-  parent => required, string: a target element on your page which will house the created balls.
+  parent => required, string: a target element on your page which will house the created balls. <br>
   size => integer: this specifies the size of the balls to be generated in px.
   color: => hex value without # or a random colour is generated
   stepsX => speed to move in X axis in px per defined speed
